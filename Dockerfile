@@ -1,0 +1,5 @@
+FROM postgres
+
+ENV POSTGRES_USER admin
+
+ENV POSTGRES_USER zaq12wsx
