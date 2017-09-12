@@ -1,5 +1,7 @@
 FROM postgres
 
+ENV POSTGRES_DB sonar
+
 ENV POSTGRES_USER admin
 
 ENV POSTGRES_PASSWORD zaq12wsx
